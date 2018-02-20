@@ -6,6 +6,74 @@ glossiness 5
 }
 
 
+
+
+
+material texture ZWT1_0  { 
+normal norm76
+specular spec76
+brightmap bright78
+glossiness 5
+specularlevel 0.7
+}
+material texture ZWT1_1  { 
+normal norm76
+specular spec76
+brightmap bright78
+glossiness 5
+specularlevel 0.7
+}
+material texture ZWT1_2  { 
+normal norm76
+specular spec76
+brightmap bright78
+glossiness 5
+specularlevel 0.7
+}
+material texture ZWT1_3  { 
+normal norm76
+specular spec76
+brightmap bright78
+glossiness 5
+specularlevel 0.7
+}
+material texture ZWT1_4  { 
+normal norm76
+specular spec76
+brightmap bright78
+glossiness 5
+specularlevel 0.7
+}
+
+
+
+material texture SWT1_2  { 
+normal norm76
+specular spec76
+brightmap bright78
+glossiness 5
+specularlevel 0.7
+}
+
+
+material texture SWT1_1  { 
+normal norm76
+specular spec76
+brightmap bright77
+glossiness 5
+specularlevel 0.7
+}
+
+
+material texture SWT1_0  { 
+normal norm76
+specular spec76
+brightmap bright76
+glossiness 5
+specularlevel 0.7
+}
+
+
 material texture stair1 { 
 normal norm73
 specular spec73
