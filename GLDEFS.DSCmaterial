@@ -5,7 +5,64 @@ specularlevel 1.0
 glossiness 5
 }
 
+material texture KTULH1  { 
+normal norm84
+specular spec84
+glossiness 5
+specularlevel 1.0
+}
+material texture SEADOWN2  { 
+normal norm83
+specular spec83
+glossiness 10
+specularlevel 1.0
+}
+material texture BLROCK  { 
+normal norm82
+specular norm82
+glossiness 10
+specularlevel 1.0
+}
 
+
+material texture CAGE1  { 
+normal norm81
+specular spec00
+glossiness 10
+specularlevel 1.0
+}
+
+
+
+material texture SEADOWN  { 
+normal norm80
+specular spec80
+glossiness 10
+specularlevel 1.0
+}
+
+
+material texture cratetp1  { 
+normal norm79
+specular spec79
+glossiness 5
+specularlevel 0.7
+}
+
+material texture dscrate5  { 
+normal norm78
+specular spec78
+glossiness 5
+specularlevel 0.7
+}
+
+
+material texture dscrate4  { 
+normal norm77
+specular spec77
+glossiness 5
+specularlevel 0.7
+}
 
 
 
