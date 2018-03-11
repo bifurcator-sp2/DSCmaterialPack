@@ -5,6 +5,23 @@ specularlevel 1.0
 glossiness 5
 }
 
+
+
+material flat BFMRBFCH  { 
+normal norm86
+specular spec86
+glossiness 15
+specularlevel 2.0
+}
+
+
+material texture MARBMAN2  { 
+normal norm85
+specular spec85
+glossiness 5
+specularlevel 1.0
+}
+
 material texture KTULH1  { 
 normal norm84
 specular spec84
@@ -421,7 +438,7 @@ glossiness 5
 }
 
 
-material texture BFMRBF2 { 
+material flat BFMRBF2 { 
 normal norm46
 specular spec46
 specularlevel 1
