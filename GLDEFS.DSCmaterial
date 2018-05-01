@@ -6,6 +6,14 @@ glossiness 15
 }
 
 
+material texture SEMIDOOR  { 
+normal norm107
+specular spec107
+specularlevel 1.0
+glossiness 5.0
+}
+
+
 material texture RESH2  { 
 normal norm106
 specular spec106
@@ -416,7 +424,7 @@ glossiness 15
 material texture MARBMAN { 
 normal norm61
 specular spec61
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -678,7 +686,7 @@ glossiness 15
 material texture BFMRBW3 { 
 normal norm28
 specular spec28
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
