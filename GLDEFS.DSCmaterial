@@ -6,6 +6,28 @@ glossiness 15
 }
 
 
+material texture DSCDOOR2  { 
+normal norm110
+specular spec110
+specularlevel 1.0
+}
+
+
+material texture DSCDOOR1  { 
+normal norm109
+specular spec109
+specularlevel 1.0
+}
+
+
+
+material texture TPLATE  { 
+normal norm108
+specular spec108
+specularlevel 1.0
+glossiness 5.0
+}
+
 material texture SEMIDOOR  { 
 normal norm107
 specular spec107
