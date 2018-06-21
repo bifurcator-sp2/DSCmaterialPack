@@ -6,6 +6,40 @@ glossiness 15
 }
 
 
+material texture HGATO  { 
+normal norm115
+specular spec115
+specularlevel 1.0
+glossiness 10.0
+}
+
+
+material texture HGATES  { 
+normal norm114
+specular spec114
+specularlevel 1.0
+glossiness 5.0
+}
+
+material texture STONEGR1  { 
+normal norm113
+specular spec113
+specularlevel 1.0
+}
+
+
+material texture MSOIL  { 
+normal norm112
+specular spec112
+specularlevel 1.0
+}
+
+material texture NROCK  { 
+normal norm111
+specular spec111
+specularlevel 1.0
+}
+
 material texture DSCDOOR2  { 
 normal norm110
 specular spec110
