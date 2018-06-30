@@ -5,6 +5,12 @@ specularlevel 3
 glossiness 15
 }
 
+material texture PLATE2  { 
+normal norm116 
+specular spec116
+glossiness 1
+specularlevel 1
+}
 
 material texture HGATO  { 
 normal norm115
@@ -1045,7 +1051,7 @@ material texture BFROCK2B  {
 normal norm2 
 specular spec2
 glossiness 3
-specularlevel 3
+specularlevel 0.5
 }
 material texture BFROCK3  { 
 normal norm36 
