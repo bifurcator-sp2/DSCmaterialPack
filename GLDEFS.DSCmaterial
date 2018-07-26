@@ -5,6 +5,25 @@ specularlevel 3
 glossiness 15
 }
 
+
+
+material texture SYMBRO2  { 
+normal norm118 
+specular spec118
+brightmap SYMBRO2M
+glossiness 1
+specularlevel 1
+}
+
+
+material texture SYMBRO1  { 
+normal norm117 
+specular spec117
+brightmap SYMBRO1M
+glossiness 1
+specularlevel 1
+}
+
 material texture PLATE2  { 
 normal norm116 
 specular spec116
