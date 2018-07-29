@@ -6,6 +6,13 @@ glossiness 15
 }
 
 
+material texture POSTER  { 
+normal norm119 
+specular spec119
+glossiness 10
+specularlevel 2
+}
+
 
 material texture SYMBRO2  { 
 normal norm118 
