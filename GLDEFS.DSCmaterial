@@ -9,8 +9,10 @@ glossiness 15
 material texture POSTER  { 
 normal norm119 
 specular spec119
+//Shader "Shaders/parallax.fp"
+//Texture tex_heightmap "textures/height119.png"
 glossiness 10
-specularlevel 2
+specularlevel 1
 }
 
 
