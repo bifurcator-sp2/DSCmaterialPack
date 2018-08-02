@@ -1,15 +1,15 @@
 material sprite ANG3A0 {
 normal norm68
 specular spec00
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture DSCBLD  {
 normal norm120
 specular norm120
-glossiness 1
-specularlevel 3
+glossiness 20
+specularlevel 5
 Shader "Shaders/MaterialWarp2.fp"
 Speed 0.5
 }
@@ -294,14 +294,14 @@ material texture MARBMAN2  {
 normal norm85
 specular spec85
 glossiness 15
-specularlevel 3
+specularlevel 1
 }
 
 material texture KTULH1  {
 normal norm84
 specular spec84
 glossiness 15
-specularlevel 3
+specularlevel 1
 }
 material texture SEADOWN2  {
 normal norm83
@@ -313,7 +313,7 @@ material texture BLROCK  {
 normal norm82
 specular norm82
 glossiness 30
-specularlevel 3
+specularlevel 1
 }
 
 
@@ -321,7 +321,7 @@ material texture CAGE1  {
 normal norm81
 specular spec00
 glossiness 30
-specularlevel 3
+specularlevel 1
 }
 
 
@@ -426,7 +426,7 @@ specularlevel 1
 material texture stair1 {
 normal norm73
 specular spec73
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 material texture alert {
@@ -449,7 +449,7 @@ material texture PENTAFAC {
 normal norm71
 specular spec71
 metallic spec71
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -457,7 +457,7 @@ glossiness 15
 material texture BIMBFCE2 {
 normal norm70
 specular spec70
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -465,7 +465,7 @@ glossiness 15
 material texture BFMBFACE {
 normal norm69
 specular spec69
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -473,21 +473,21 @@ glossiness 15
 material texture BGDOR1 {
 normal norm67
 specular spec67
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture SCULCOL2 {
 normal norm65
 specular spec65
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture SCULLCOL {
 normal norm65
 specular spec65
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -495,7 +495,7 @@ material texture VCBR {
 normal norm64
 specular spec64
 brightmap VCBRM
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -503,7 +503,7 @@ glossiness 15
 material texture VC2 {
 normal norm64
 specular spec64
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -518,7 +518,7 @@ glossiness 15
 material texture BFROO {
 normal norm62
 specular spec62
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -594,7 +594,7 @@ glossiness 15
 material texture MARBFL1 {
 normal norm53
 specular spec53
-specularlevel 3.6
+specularlevel 1.6
 glossiness 15
 }
 material texture MARBFL2 {
@@ -616,28 +616,28 @@ glossiness 15
 material texture METALS {
 normal norm51
 specular spec50
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture BFMETALL {
 normal norm50
 specular spec50
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture LIONDOOR {
 normal norm48
 specular spec48
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture BFMBCOL1 {
 normal norm49
 specular spec49
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -645,7 +645,7 @@ glossiness 15
 material texture BFMARBBL {
 normal norm43
 specular spec43
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -679,7 +679,7 @@ glossiness 5
 material texture DARKDOOR {
 normal norm34
 specular spec40
-specularlevel 3
+specularlevel 1
 glossiness 150
 }
 
@@ -700,7 +700,7 @@ glossiness 5
 material texture BFMRBFCH {
 normal norm46
 specular spec46
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -716,21 +716,21 @@ glossiness 15
 material flat BFMRBF2 {
 normal norm46
 specular spec46
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture MARBLEC2 {
 normal norm31
 specular spec31
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture BFMRBLBO {
 normal norm45
 specular spec45
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 material texture MRBLBO {
@@ -744,7 +744,7 @@ glossiness 5
 material texture MARBLMN3 {
 normal norm44
 specular spec44
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 material texture MARBLMN {
@@ -758,7 +758,7 @@ glossiness 5
 material texture BFMRBW5 {
 normal norm30
 specular spec30
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -766,7 +766,7 @@ glossiness 15
 material texture MRBW6 {
 normal norm28
 specular spec28
-specularlevel 3
+specularlevel 1
 brightmap MRBW6BM
 glossiness 15
 }
@@ -781,7 +781,7 @@ glossiness 5
 material texture BFMRBW4 {
 normal norm28
 specular spec28
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -796,35 +796,35 @@ glossiness 15
 material texture BFMRBW2 {
 normal norm42
 specular spec42
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture BFMRBW1 {
 normal norm28
 specular spec28
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture BASEMRB1 {
 normal norm27
 specular spec27
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture BIFMARB2 {
 normal norm27
 specular spec27
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
 material texture BASEMRBR {
 normal norm27
 specular spec27
-specularlevel 3
+specularlevel 1
 glossiness 15
 }
 
@@ -837,26 +837,26 @@ material texture ddoor2 {
 normal norm26
 specular spec00
 brightmap ddoor1m
-specularlevel 3
+specularlevel 1
 }
 
 material texture ddoor1 {
 normal norm26
 specular spec00
 brightmap ddoor1m
-specularlevel 3
+specularlevel 1
 }
 
 material texture tecwd {
 normal norm25
 specular spec25
-specularlevel 3
+specularlevel 1
 }
 
 material texture teccol2 {
 normal norm24
 specular spec24
-specularlevel 3
+specularlevel 1
 }
 material texture teccol2_ {
 normal norm24
@@ -869,14 +869,14 @@ specularlevel 1
 material texture panel2 {
 normal norm23
 specular spec23
-specularlevel 3
+specularlevel 1
 }
 
 material texture panel2_ {
 normal norm23
 specular spec23
 brightmap panel2_m
-specularlevel 3
+specularlevel 1
 }
 material texture panel2u {
 normal norm23
@@ -897,7 +897,7 @@ Speed 0.05
 material texture panel1  {
 normal norm9
 specular spec00
-specularlevel 3
+specularlevel 1
 }
 
 
@@ -931,27 +931,27 @@ specularlevel 0
 material texture dsccn1b  {
 normal norm75
 specular spec75
-specularlevel 3
+specularlevel 1
 }
 
 
 material texture supp2 {
 normal norm15
 specular spec15
-specularlevel 3
+specularlevel 1
 }
 
 material texture supp3_l {
 normal norm16
 specular supp4
 brightmap supp3lm
-specularlevel 3
+specularlevel 1
 }
 
 material texture supp4 {
 normal norm16
 specular supp4
-specularlevel 3
+specularlevel 1
 }
 
 
@@ -960,14 +960,14 @@ normal norm19
 specular spec19
 brightmap bswal1m
 glossiness 15
-specularlevel 3
+specularlevel 1
 }
 
 material texture bswal1n {
 normal norm19
 specular spec19
 glossiness 15
-specularlevel 3
+specularlevel 1
 }
 
 material texture bswal3 {
@@ -975,20 +975,20 @@ normal norm20
 specular spec20
 brightmap bswal1m
 glossiness 15
-specularlevel 3
+specularlevel 1
 }
 
 material texture supp1 {
 normal norm22
 specular spec21
-specularlevel 3
+specularlevel 1
 }
 
 material texture supp1l {
 normal norm22
 specular spec21
 brightmap supp1lm
-specularlevel 3
+specularlevel 1
 }
 
 
@@ -998,7 +998,7 @@ specular spec3
 metallic metall3
 ao oc3
 glossiness 3
-specularlevel 3
+specularlevel 1
 }
 
 material texture dscfl1  {
@@ -1030,7 +1030,7 @@ material texture dscfl2  {
 normal norm8
 specular spec6
 glossiness 3
-specularlevel 3
+specularlevel 1
 }
 
 material texture dscfld  {
@@ -1068,7 +1068,7 @@ normal norm1
 specular spec1
 metallic spec1
 glossiness 3
-specularlevel 2
+specularlevel 1
 }
 
 
@@ -1107,5 +1107,5 @@ material texture DSCBLD  {
 normal norm7
 specular spec00
 glossiness 3
-specularlevel 3
+specularlevel 1
 }*/
