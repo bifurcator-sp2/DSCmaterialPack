@@ -10,7 +10,9 @@ normal norm120
 specular norm120
 glossiness 20
 specularlevel 5
-Shader "Shaders/MaterialWarp2.fp"
+//Shader "Shaders/MaterialWarp2.fp"
+Shader "Shaders/WaterShader.fp"
+texture offsetTexture "Textures/waterUV.png"
 Speed 0.5
 }
 
@@ -235,7 +237,9 @@ normal norm92
 specular spec92
 glossiness 60.0
 specularlevel 2.0
-Shader "Shaders/MaterialWarp2.fp"
+//Shader "Shaders/MaterialWarp2.fp"
+Shader "Shaders/WaterShader.fp"
+texture offsetTexture "Textures/waterUV.png"
 Speed 0.5
 
 }
